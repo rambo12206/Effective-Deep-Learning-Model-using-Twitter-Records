@@ -1,4 +1,4 @@
-# Effective-Deep-Learning-Model-using-Twitter-Records
+# Effective-Deep-Learning-Model-using-Twitter-Records Using Deep Learning
 
 
 #About the Project:
